@@ -1,9 +1,5 @@
 # bookstore
 
-First of all I am sincerely sorry that I am late in completing my work.
-I am late because I am physically ill. And I couldn't do it with Knex due to lack of time,
-so I did it with Prisma. Misforgiveness will look good.
-
 GitHub Project Link:
 https://github.com/johurul-abir/bookstore
 
